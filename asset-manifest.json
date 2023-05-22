@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/product-price-calculator/glowroad/static/css/main.073c9b0a.css",
-    "main.js": "/product-price-calculator/glowroad/static/js/main.9e0bdf22.js",
-    "index.html": "/product-price-calculator/glowroad/index.html",
-    "main.073c9b0a.css.map": "/product-price-calculator/glowroad/static/css/main.073c9b0a.css.map",
-    "main.9e0bdf22.js.map": "/product-price-calculator/glowroad/static/js/main.9e0bdf22.js.map"
+    "main.css": "/product-price-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/product-price-calculator/static/js/main.96bf90e0.js",
+    "index.html": "/product-price-calculator/index.html",
+    "main.073c9b0a.css.map": "/product-price-calculator/static/css/main.073c9b0a.css.map",
+    "main.96bf90e0.js.map": "/product-price-calculator/static/js/main.96bf90e0.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9e0bdf22.js"
+    "static/js/main.96bf90e0.js"
   ]
 }
